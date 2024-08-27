@@ -15,6 +15,22 @@
     limitations under the License.
 -->
 <resources>
+    <string name="category_sanatani">Sanatani Wallpapers</string>
+    <string name="author_mudit">by Mudit</string>
+    <string name="sanatani_a">Sanatani Exclusive 1</string>
+    <string name="sanatani_b">Sanatani Exclusive 2</string>
+    <string name="sanatani_c">Sanatani Exclusive 3</string>
+    <string name="sanatani_d">Sanatani Exclusive 4</string>
+    <string name="sanatani_e">Sanatani Exclusive 5</string>
+    <string name="sanatani_f">Sanatani Exclusive 6</string>
+    <string name="sanatani_g">Sanatani Exclusive 7</string>
+    <string name="sanatani_h">Sanatani Exclusive 8</string>
+    <string name="sanatani_i">Sanatani Exclusive 9</string>
+    <string name="sanatani_j">Sanatani Exclusive 10</string>
+    <string name="sanatani_k">Sanatani Exclusive 11</string>
+    <string name="sanatani_l">Sanatani Exclusive 12</string>
+    <string name="sanatani_m">Sanatani Exclusive 13</string>
+    <string name="sanatani_n">Sanatani Exclusive 14</string>
     <string name="category_space">Space</string>
     <string name="author_infinitum">by Infinitum</string>
     <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>

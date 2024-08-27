@@ -15,6 +15,93 @@
     limitations under the License.
 -->
 <wallpapers>
+    	<category id="sanatani" title="@string/category_sanatani" featured="sanatani_a">
+
+	<static-wallpaper
+            id="sanatani_a"
+            src="@drawable/sanatani_a"
+            title="@string/sanatani_a"
+            subtitle1="@string/author_mudit" />
+
+    	<static-wallpaper
+            id="sanatani_b"
+            src="@drawable/sanatani_b"
+            title="@string/sanatani_b"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_c"
+            src="@drawable/sanatani_c"
+            title="@string/sanatani_c"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_d"
+            src="@drawable/sanatani_d"
+            title="@string/sanatani_d"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_e"
+            src="@drawable/sanatani_e"
+            title="@string/sanatani_e"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_f"
+            src="@drawable/sanatani_f"
+            title="@string/sanatani_f"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_g"
+            src="@drawable/sanatani_g"
+            title="@string/sanatani_g"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_h"
+            src="@drawable/sanatani_h"
+            title="@string/sanatani_h"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_i"
+            src="@drawable/sanatani_i"
+            title="@string/sanatani_i"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_j"
+            src="@drawable/sanatani_j"
+            title="@string/sanatani_j"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_k"
+            src="@drawable/sanatani_k"
+            title="@string/sanatani_k"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_l"
+            src="@drawable/sanatani_l"
+            title="@string/sanatani_l"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_m"
+            src="@drawable/sanatani_m"
+            title="@string/sanatani_m"
+            subtitle1="@string/author_mudit" />
+
+        <static-wallpaper
+            id="sanatani_n"
+            src="@drawable/sanatani_n"
+            title="@string/sanatani_n"
+            subtitle1="@string/author_mudit" />
+
+	</category>
 
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 
